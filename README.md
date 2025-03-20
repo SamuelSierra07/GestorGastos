@@ -25,7 +25,10 @@ Este proyecto es un componente de formulario de inicio de sesión creado con **R
    npm run dev
    ```
 Samuel Sierra Rodriguez
+sierrasamuel80@gmail.com
+
 Thomas Noriega Zuleta
+thomasnzcp78@gmail.com
 
 
 
