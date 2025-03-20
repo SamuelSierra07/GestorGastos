@@ -1,12 +1,42 @@
-# React + Vite
+# Login en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un componente de formulario de inicio de sesión creado con **React** y **CSS**.
 
-Currently, two official plugins are available:
+## 🚀 Características
+- Diseño moderno y responsivo
+- Efectos visuales atractivos con CSS
+- Botón con animaciones al pasar el cursor
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 Estructura del Proyecto
+```
+/react-proyecto
+│-- src
+│   ├── components
+│   │   ├── Login.jsx  # Componente de Login
+│   ├── App.jsx        # Archivo principal
+│   ├── main.jsx       # Punto de entrada de React
+│   ├── Login.css      # Estilos del login
+│-- public
+│-- package.json
+```
 
-## Expanding the ESLint configuration
+## 🛠 Instalación y Uso
+1. Clona el repositorio:
+   ```sh
+   git clone https://github.com/TU_USUARIO/login-react.git
+   ```
+2. Entra en la carpeta del proyecto:
+   ```sh
+   cd login-react
+   ```
+3. Instala las dependencias:
+   ```sh
+   npm install
+   ```
+4. Inicia el servidor de desarrollo:
+   ```sh
+   npm run dev
+   ```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
